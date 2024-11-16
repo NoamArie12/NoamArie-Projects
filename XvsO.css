@@ -1,0 +1,55 @@
+#goback{
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 0px;
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}
+#reload {
+    width: 40px;
+    height: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    border-width: 0px;
+
+}
+h1{
+    font-family: arial, serif;
+    text-align: center;
+}
+#column{
+    display: flex;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.row {
+    gap: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+    background-color: #8f8f8f;
+    border: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+p{
+    text-align: center;
+    font-size: large;
+    font-family: arial, serif;
+}
+#move{
+    font-family: arial, serif;
+    font-size: large;
+
+}

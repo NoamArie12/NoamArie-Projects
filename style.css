@@ -1,0 +1,59 @@
+#space{
+margin-top: 200px;
+}
+body{
+    text-align: center;
+}
+h1{
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    width: 500px;
+    height: 20px;
+    background-color: gray;
+    border-radius: 15px;
+    border-width: 0;
+    padding: 10px;
+    color: rgb(33, 33, 33);
+}
+input::placeholder{
+    color: rgb(48, 48, 48);
+}
+button{
+    width: 50px;
+    height: 40px;
+    background-color: gray;
+    border-radius: 15px;
+    border-width: 0;
+    padding: 10px;
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}
+#policy{
+    color: black;
+    font-family: sans-serif;
+}
+#xvso-img{
+    height: 150px;
+    width: 150px;
+}
+#xvso-name{
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 30px;
+    font-family: arial;
+}
+div{
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.54);
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+}
+div:hover{
+    cursor: pointer;
+    transform: scale(1.01);
+}
