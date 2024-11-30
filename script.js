@@ -46,5 +46,5 @@ function xvsoclick(){
 }
 //The Flip A Coin function
 function flipcoinclick(){
-    window.location.href = 'Flipcoin.html';
+    window.location.href = 'FlipCoin.html';
 }
